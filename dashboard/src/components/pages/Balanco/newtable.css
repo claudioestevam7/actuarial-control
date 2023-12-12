@@ -1,0 +1,22 @@
+.grid{
+    background-color: rgb(165, 196, 196);
+    border: 1px solid #000;
+    font-size: 11px;
+}
+
+.fundo_table{
+    border: 0.2px solid white;
+    border-radius: 5px;
+}
+
+.cell_head{
+    background-color: #1A1A40;
+    
+}
+.cell_body{
+    background-color: #082032;
+    font-size: 12px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}

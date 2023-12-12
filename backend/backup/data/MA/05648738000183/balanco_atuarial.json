@@ -1,0 +1,70 @@
+[
+    {
+        "Previdenci\u00e1rio": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2015": -39421381,
+                "2016": -45449242
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2015": 0,
+                "2016": 0
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2015": -8407808,
+                "2016": -9757189
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2015": 0,
+                "2016": 0
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2015": 0,
+                "2016": 20912966
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2015": -47829189,
+                "2016": -34293466
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2015": -167139728,
+                "2016": -153923224
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2015": 47890765,
+                "2016": 48608867
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2015": 22133554,
+                "2016": 22442016
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2015": 0,
+                "2016": 20912966
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2015": -97115409,
+                "2016": -61959376
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2015": -144944598,
+                "2016": -96252841
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2015": 0,
+                "2016": 2072891
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2015": 3996859,
+                "2016": 6272327
+            },
+            "(=) Ativo Total do Plano": {
+                "2015": 3996859,
+                "2016": 8345218
+            },
+            "Resultado Atuarial": {
+                "2015": -140947739,
+                "2016": -87907623
+            }
+        }
+    }
+]

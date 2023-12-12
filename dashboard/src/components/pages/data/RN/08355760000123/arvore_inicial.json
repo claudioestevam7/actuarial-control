@@ -1,0 +1,96 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2019": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 119
+                                        },
+                                        {
+                                                "S. Iminentes": 23
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 53
+                                        },
+                                        {
+                                                "S. Iminentes": 0
+                                        }
+                                ]
+                        },
+                        "2020": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 117
+                                        },
+                                        {
+                                                "S. Iminentes": 25
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 53
+                                        },
+                                        {
+                                                "S. Iminentes": 0
+                                        }
+                                ]
+                        },
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 111
+                                        },
+                                        {
+                                                "S. Iminentes": 26
+                                        },
+                                        {
+                                                "Aposentados": 1
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 50
+                                        },
+                                        {
+                                                "S. Iminentes": 1
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        },
+                        "2022": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 108
+                                        },
+                                        {
+                                                "S. Iminentes": 22
+                                        },
+                                        {
+                                                "Aposentados": 6
+                                        },
+                                        {
+                                                "Pensionistas": 1
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 43
+                                        },
+                                        {
+                                                "S. Iminentes": 4
+                                        },
+                                        {
+                                                "Aposentados": 1
+                                        },
+                                        {
+                                                "Pensionistas": 0
+                                        }
+                                ]
+                        }
+                }
+        }
+]

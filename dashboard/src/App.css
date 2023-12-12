@@ -1,0 +1,17 @@
+:root{
+    background-image: linear-gradient(90deg, #1A1A40 0%, #082032 25%);
+
+}
+    
+.master{
+    display: flex;
+    flex-direction: row;
+    
+    padding: 0;
+    margin: 0;
+}
+
+.principal{
+    display: flex;
+    flex-direction: row;
+}

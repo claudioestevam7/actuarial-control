@@ -1,0 +1,104 @@
+[
+   {
+      "2015": {
+         "Financeiro": {
+            "Aposentados": 67,
+            "Pensionistas": 6,
+            "Servidores": 170
+         },
+         "Previdenci\u00e1rio": {
+            "Aposentados": 2,
+            "Pensionistas": 3,
+            "Servidores": 264
+         }
+      },
+      "2016": {
+         "Financeiro": {
+            "Aposentados": 68,
+            "Pensionistas": 7,
+            "Servidores": 167
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 282,
+            "Aposentados": 4,
+            "Pensionistas": 3
+         }
+      },
+      "2017": {
+         "Financeiro": {
+            "Aposentados": 79,
+            "Pensionistas": 7,
+            "Servidores": 155,
+            "Servidores Iminentes": 1
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 349,
+            "Aposentados": 4,
+            "Pensionistas": 3
+         }
+      },
+      "2018": {
+         "Financeiro": {
+            "Aposentados": 93,
+            "Pensionistas": 7,
+            "Servidores": 135,
+            "Servidores Iminentes": 6
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 353,
+            "Aposentados": 6,
+            "Pensionistas": 3,
+            "Servidores Iminentes": 2
+         }
+      },
+      "2019": {
+         "Financeiro": {
+            "Aposentados": 101,
+            "Pensionistas": 8,
+            "Servidores": 119,
+            "Servidores Iminentes": 8
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 347,
+            "Aposentados": 8,
+            "Pensionistas": 3,
+            "Servidores Iminentes": 3
+         }
+      },
+      "2020": {
+         "Financeiro": {
+            "Servidores": 113,
+            "Servidores Iminentes": 8,
+            "Aposentados": 106,
+            "Pensionistas": 11
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 362,
+            "Aposentados": 9,
+            "Pensionistas": 6
+         }
+      },
+      "2021": {
+         "Previdenci\u00e1rio": {
+            "Servidores": 461,
+            "Aposentados": 119,
+            "Pensionistas": 23,
+            "Servidores Iminentes": 7
+         }
+      },
+      "2022": {
+         "Previdenci\u00e1rio": {
+            "Servidores": 450,
+            "Aposentados": 130,
+            "Pensionistas": 28
+         }
+      },
+      "2023": {
+         "Previdenci\u00e1rio": {
+            "Servidores": 443,
+            "Aposentados": 132,
+            "Pensionistas": 30
+         }
+      }
+   }
+]

@@ -1,0 +1,54 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2020": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 291
+                                        },
+                                        {
+                                                "Aposentados": 40
+                                        },
+                                        {
+                                                "Pensionistas": 9
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 302
+                                        },
+                                        {
+                                                "Aposentados": 10
+                                        },
+                                        {
+                                                "Pensionistas": 9
+                                        }
+                                ]
+                        },
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 285
+                                        },
+                                        {
+                                                "Aposentados": 40
+                                        },
+                                        {
+                                                "Pensionistas": 9
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 292
+                                        },
+                                        {
+                                                "Aposentados": 10
+                                        },
+                                        {
+                                                "Pensionistas": 9
+                                        }
+                                ]
+                        }
+                }
+        }
+]

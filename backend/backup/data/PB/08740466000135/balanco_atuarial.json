@@ -1,0 +1,70 @@
+[
+    {
+        "Previdenci\u00e1rio": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2020": -31747725,
+                "2021": -34724890
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2020": 20743,
+                "2021": 16034
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2020": -1748155,
+                "2021": -1806188
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2020": 0,
+                "2021": 0
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2020": 6548443,
+                "2021": 9762169
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2020": -26926695,
+                "2021": -26752875
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2020": -74357474,
+                "2021": -99820092
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2020": 4524223,
+                "2021": 5915367
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2020": 5529606,
+                "2021": 7229893
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2020": 6548443,
+                "2021": 9762169
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2020": -57755203,
+                "2021": -76912663
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2020": -84681898,
+                "2021": -103665538
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2020": 0,
+                "2021": 0
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2020": 0,
+                "2021": 34065
+            },
+            "(=) Ativo Total do Plano": {
+                "2020": 0,
+                "2021": 34065
+            },
+            "Resultado Atuarial": {
+                "2020": -84681898,
+                "2021": -103631473
+            }
+        }
+    }
+]

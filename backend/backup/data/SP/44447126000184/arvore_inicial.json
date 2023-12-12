@@ -1,0 +1,206 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2015": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 35
+                                        },
+                                        {
+                                                "Servidores": 202
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 35
+                                        },
+                                        {
+                                                "Servidores": 110
+                                        }
+                                ]
+                        },
+                        "2016": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 38
+                                        },
+                                        {
+                                                "Pensionistas": 18
+                                        },
+                                        {
+                                                "Servidores": 211
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 38
+                                        },
+                                        {
+                                                "Pensionistas": 5
+                                        },
+                                        {
+                                                "Servidores": 112
+                                        }
+                                ]
+                        },
+                        "2017": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 46
+                                        },
+                                        {
+                                                "Pensionistas": 16
+                                        },
+                                        {
+                                                "Servidores": 206
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 43
+                                        },
+                                        {
+                                                "Pensionistas": 7
+                                        },
+                                        {
+                                                "Servidores": 108
+                                        }
+                                ]
+                        },
+                        "2018": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 53
+                                        },
+                                        {
+                                                "Pensionistas": 20
+                                        },
+                                        {
+                                                "Servidores": 194
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 41
+                                        },
+                                        {
+                                                "Pensionistas": 8
+                                        },
+                                        {
+                                                "Servidores": 105
+                                        }
+                                ]
+                        },
+                        "2019": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 55
+                                        },
+                                        {
+                                                "Pensionistas": 21
+                                        },
+                                        {
+                                                "Servidores": 196
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 41
+                                        },
+                                        {
+                                                "Pensionistas": 8
+                                        },
+                                        {
+                                                "Servidores": 104
+                                        }
+                                ]
+                        },
+                        "2020": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 173
+                                        },
+                                        {
+                                                "Aposentados": 57
+                                        },
+                                        {
+                                                "Pensionistas": 22
+                                        },
+                                        {
+                                                "Servidores Iminentes": 16
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 89
+                                        },
+                                        {
+                                                "Aposentados": 42
+                                        },
+                                        {
+                                                "Pensionistas": 11
+                                        },
+                                        {
+                                                "Servidores Iminentes": 7
+                                        }
+                                ]
+                        },
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Servidores Iminentes": 27
+                                        },
+                                        {
+                                                "Aposentados": 57
+                                        },
+                                        {
+                                                "Pensionistas": 21
+                                        },
+                                        {
+                                                "Servidores": 159
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores Iminentes": 12
+                                        },
+                                        {
+                                                "Aposentados": 45
+                                        },
+                                        {
+                                                "Pensionistas": 13
+                                        },
+                                        {
+                                                "Servidores": 80
+                                        }
+                                ]
+                        }
+                },
+                "Mantidos pelo Tesouro": {
+                        "2020": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 2
+                                        }
+                                ]
+                        },
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 2
+                                        }
+                                ]
+                        }
+                }
+        }
+]

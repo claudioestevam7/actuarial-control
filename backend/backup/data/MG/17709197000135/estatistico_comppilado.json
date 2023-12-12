@@ -1,0 +1,20 @@
+[
+    {
+        "id": "aposentados",
+        "label": "Aposentados",
+        "color": "rgb(217, 104, 17)",
+        "value": 125
+    },
+    {
+        "id": "pensionistas",
+        "label": "Pensionistas",
+        "color": "rgb(45, 116, 239)",
+        "value": 32
+    },
+    {
+        "id": "Servidores",
+        "label": "Servidores",
+        "color": "rgb(40, 219, 198)",
+        "value": 414
+    }
+]

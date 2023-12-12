@@ -1,0 +1,54 @@
+[
+    {
+        "Previdenci\u00e1rio": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2023": -12944137
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2023": 0
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2023": -1572413
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2023": 0
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2023": 3218050
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2023": -11298500
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2023": -30113696
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2023": 9913973
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2023": 7863774
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2023": 3218050
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2023": -9117899
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2023": -20416400
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2023": 0
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2023": 116300
+            },
+            "(=) Ativo Total do Plano": {
+                "2023": 116300
+            },
+            "Resultado Atuarial": {
+                "2023": -20300100
+            }
+        }
+    }
+]

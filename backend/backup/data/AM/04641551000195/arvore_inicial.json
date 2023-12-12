@@ -1,0 +1,60 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2019": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 493
+                                        },
+                                        {
+                                                "Aposentados": 7
+                                        },
+                                        {
+                                                "Pensionistas": 3
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 234
+                                        },
+                                        {
+                                                "Aposentados": 1
+                                        },
+                                        {
+                                                "Pensionistas": 3
+                                        }
+                                ]
+                        },
+                        "2022": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 279
+                                        },
+                                        {
+                                                "Servidores Iminentes": 31
+                                        },
+                                        {
+                                                "Aposentados": 23
+                                        },
+                                        {
+                                                "Pensionistas": 5
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 221
+                                        },
+                                        {
+                                                "Servidores Iminentes": 12
+                                        },
+                                        {
+                                                "Aposentados": 10
+                                        },
+                                        {
+                                                "Pensionistas": 13
+                                        }
+                                ]
+                        }
+                }
+        }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "Previdenci\u00e1rio": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2021": -126022349,
+                "2023": -151817601
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2021": 611405,
+                "2023": 13524443
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2021": -14423462,
+                "2023": -17451727
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2021": 19286,
+                "2023": 1076340
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2021": 8901248,
+                "2023": 6466661
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2021": -130913872,
+                "2023": -148201883
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2021": -100979325,
+                "2023": -96334847
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2021": 18568714,
+                "2023": 16226417
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2021": 9284357,
+                "2023": 10325902
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2021": 9088139,
+                "2023": 7706788
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2021": -64038116,
+                "2023": -62075740
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2021": -194951987,
+                "2023": -210277623
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2021": 0,
+                "2023": 100591288
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2021": 15646,
+                "2023": 852192
+            },
+            "(=) Ativo Total do Plano": {
+                "2021": 15646,
+                "2023": 101443480
+            },
+            "Resultado Atuarial": {
+                "2021": -194936341,
+                "2023": -108834143
+            }
+        }
+    }
+]

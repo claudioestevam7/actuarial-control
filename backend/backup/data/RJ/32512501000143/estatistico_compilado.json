@@ -1,0 +1,87 @@
+[
+   {
+      "2015": {
+         "Financeiro": {
+            "Servidores": 1775,
+            "Aposentados": 2394,
+            "Pensionistas": 477
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1536
+         }
+      },
+      "2016": {
+         "Financeiro": {
+            "Servidores": 1632,
+            "Aposentados": 2469,
+            "Pensionistas": 541
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1698
+         }
+      },
+      "2017": {
+         "Financeiro": {
+            "Servidores": 1159,
+            "Aposentados": 2717,
+            "Pensionistas": 558
+         },
+         "Previdenci\u00e1rio": {
+            "Pensionistas": 3,
+            "Servidores": 1974
+         }
+      },
+      "2018": {
+         "Financeiro": {
+            "Servidores": 1071,
+            "Aposentados": 2741,
+            "Pensionistas": 593
+         },
+         "Previdenci\u00e1rio": {
+            "Pensionistas": 3,
+            "Servidores": 1907
+         }
+      },
+      "2019": {
+         "Financeiro": {
+            "Aposentados": 2695,
+            "Pensionistas": 580,
+            "Servidores": 517,
+            "S. Iminentes": 444
+         },
+         "Previdenci\u00e1rio": {
+            "Aposentados": 4,
+            "Pensionistas": 6,
+            "Servidores": 1780,
+            "S. Iminentes": 214
+         }
+      },
+      "2020": {
+         "Financeiro": {
+            "Aposentados": 2777,
+            "Pensionistas": 600,
+            "Servidores": 413,
+            "S. Iminentes": 439
+         },
+         "Previdenci\u00e1rio": {
+            "Aposentados": 5,
+            "Pensionistas": 13,
+            "Servidores": 2233,
+            "S. Iminentes": 255
+         }
+      },
+      "2021": {
+         "Financeiro": {
+            "Servidores": 352,
+            "S. Iminentes": 391,
+            "Aposentados": 2809,
+            "Pensionistas": 606
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 3417,
+            "S. Iminentes": 14,
+            "Aposentados": 6
+         }
+      }
+   }
+]

@@ -1,0 +1,84 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2018": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 136
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 69
+                                        }
+                                ]
+                        },
+                        "2019": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 118
+                                        },
+                                        {
+                                                "S. Iminentes": 1
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 71
+                                        },
+                                        {
+                                                "S. Iminentes": 0
+                                        }
+                                ]
+                        },
+                        "2020": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 121
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 67
+                                        }
+                                ]
+                        },
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 119
+                                        },
+                                        {
+                                                "Aposentados": 1
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 72
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        },
+                        "2022": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 134
+                                        },
+                                        {
+                                                "Aposentados": 3
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 84
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        }
+                }
+        }
+]

@@ -1,0 +1,82 @@
+[
+   {
+      "2017": {
+         "Financeiro": {
+            "Servidores": 852,
+            "Aposentados": 341,
+            "Pensionistas": 142
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1572,
+            "Aposentados": 14,
+            "Pensionistas": 14
+         }
+      },
+      "2018": {
+         "Financeiro": {
+            "Servidores": 742,
+            "Aposentados": 383,
+            "Pensionistas": 141,
+            "Servidores Iminentes": 58
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1572,
+            "Aposentados": 25,
+            "Pensionistas": 27
+         }
+      },
+      "2019": {
+         "Financeiro": {
+            "Servidores": 596,
+            "Aposentados": 417,
+            "Pensionistas": 138,
+            "Servidores Iminentes": 66
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1753,
+            "Aposentados": 31,
+            "Pensionistas": 25
+         }
+      },
+      "2020": {
+         "Financeiro": {
+            "Servidores": 545,
+            "Aposentados": 462,
+            "Pensionistas": 133,
+            "Servidores Iminentes": 65
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1724,
+            "Aposentados": 50,
+            "Pensionistas": 28
+         }
+      },
+      "2021": {
+         "Financeiro": {
+            "Servidores": 567,
+            "Aposentados": 489,
+            "Pensionistas": 153,
+            "Servidores Iminentes": 1
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1786,
+            "Aposentados": 43,
+            "Pensionistas": 12
+         }
+      },
+      "2022": {
+         "Financeiro": {
+            "Servidores": 401,
+            "Aposentados": 506,
+            "Pensionistas": 160,
+            "Servidores Iminentes": 132
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1576,
+            "Aposentados": 62,
+            "Pensionistas": 22,
+            "Servidores Iminentes": 128
+         }
+      }
+   }
+]

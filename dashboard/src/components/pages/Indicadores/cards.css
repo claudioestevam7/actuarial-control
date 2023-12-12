@@ -1,0 +1,65 @@
+.container{
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 82.15px;
+}
+.caixa_1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.cabecalho{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #295872;
+    border-radius: 5px;
+    
+}
+
+.cabecalho .fa-info-circle{
+    font-size: 14px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+.cabecalho .title{
+    font-size:12px;
+    font-weight: 600;
+    padding: 5px 2px;
+    color: #fff;
+}
+
+
+.corpo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+.corpo h2{
+    font-size: 18px;
+    font-weight: 700;
+
+   /*  text-shadow: 
+                -1px -1px 0px #FFF, 
+                -1px 1px 0px #FFF,                    
+                1px -1px 0px #FFF,                  
+                1px 0px 0px #FFF; */
+}
+
+.corpo .icone{
+    font-size: 28px;
+    align-items: right;
+    color: #fff;
+}
+.corpo .icons{
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 1px;
+}

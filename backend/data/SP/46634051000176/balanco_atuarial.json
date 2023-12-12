@@ -1,0 +1,216 @@
+[
+    {
+        "Previdenci\u00e1rio": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2015": -203524521,
+                "2016": -244495999,
+                "2017": -323622119,
+                "2018": -391310311,
+                "2019": -537958435,
+                "2020": -578260485,
+                "2021": -587842025,
+                "2022": -84022488
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2015": 2848944,
+                "2016": 3557747,
+                "2017": 5435185,
+                "2018": 6694097,
+                "2019": 129402920,
+                "2020": 14039820,
+                "2021": 33191743,
+                "2022": 9397013
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2015": -26297072,
+                "2016": -41294889,
+                "2017": -65011508,
+                "2018": -61002112,
+                "2019": -85421786,
+                "2020": -80673138,
+                "2021": -111490611,
+                "2022": -11867700
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2015": 0,
+                "2016": 0,
+                "2017": 676491,
+                "2018": 676090,
+                "2019": 86256437,
+                "2020": 813570,
+                "2021": 2387399,
+                "2022": 315819
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2015": 0,
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 18888421,
+                "2020": 19504435,
+                "2021": 62870030,
+                "2022": 7661634
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2015": -226972649,
+                "2016": -282233141,
+                "2017": -382521951,
+                "2018": -444942236,
+                "2019": -388832444,
+                "2020": -624575797,
+                "2021": -600883463,
+                "2022": -78515723
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2015": -481835335,
+                "2016": -545166945,
+                "2017": -649457344,
+                "2018": -801179638,
+                "2019": -679376986,
+                "2020": -704659208,
+                "2021": -757597047,
+                "2022": -332028629
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2015": 142474338,
+                "2016": 140549108,
+                "2017": 157004622,
+                "2018": 187059578,
+                "2019": 274425911,
+                "2020": 155157575,
+                "2021": 181941523,
+                "2022": 172456478
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2015": 72792277,
+                "2016": 80733169,
+                "2017": 86352542,
+                "2018": 102882768,
+                "2019": 62481487,
+                "2020": 98736638,
+                "2021": 149834216,
+                "2022": 151447200
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2015": 44123790,
+                "2016": 51867449,
+                "2017": 61804762,
+                "2018": 77729712,
+                "2019": 20585123,
+                "2020": 20857913,
+                "2021": 68107972,
+                "2022": 26529084
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2015": -222444931,
+                "2016": -272017219,
+                "2017": -344295418,
+                "2018": -433507580,
+                "2019": -321884465,
+                "2020": -429907083,
+                "2021": -357713336,
+                "2022": 18404133
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2015": -449417580,
+                "2016": -554250360,
+                "2017": -726817369,
+                "2018": -878449816,
+                "2019": -710716909,
+                "2020": -1054482880,
+                "2021": -958596799,
+                "2022": -60111590
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2015": 0,
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2015": 46411893,
+                "2016": 54141864,
+                "2017": 62857599,
+                "2018": 64018675,
+                "2019": 63217873,
+                "2020": 67953334,
+                "2021": 58664146,
+                "2022": 42201481
+            },
+            "(=) Ativo Total do Plano": {
+                "2015": 46411893,
+                "2016": 54141864,
+                "2017": 62857599,
+                "2018": 64018675,
+                "2019": 63217873,
+                "2020": 67953334,
+                "2021": 58664146,
+                "2022": 42201481
+            },
+            "Resultado Atuarial": {
+                "2015": -403005687,
+                "2016": -500108496,
+                "2017": -663959770,
+                "2018": -814431141,
+                "2019": -647499035,
+                "2020": -986529545,
+                "2021": -899932653,
+                "2022": -17910109
+            }
+        },
+        "Financeiro": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2022": -849161397
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2022": 45305118
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2022": -118877421
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2022": 1745940
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2022": 77346322
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2022": -843641437
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2022": -350805164
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2022": 43837290
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2022": 30815855
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2022": 28029328
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2022": -248122691
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2022": -1091764127
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2022": 0
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2022": 0
+            },
+            "(=) Ativo Total do Plano": {
+                "2022": 0
+            },
+            "Resultado Atuarial": {
+                "2022": -1091764127
+            }
+        }
+    }
+]

@@ -1,0 +1,9 @@
+
+#estado {  
+    background-color: var(--cor--1);
+}
+
+.localidade{
+    background-color: var(--cor--2);
+    width: 10%;
+}

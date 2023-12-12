@@ -1,0 +1,35 @@
+.crp .title{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #295872;
+    border-radius: 5px;
+}
+.crp h1{
+    color:#fff;
+    font-size: 12px;
+    background-color: '#181818';
+    padding: 5px 0px 5px 5px;
+    margin: 0;
+}
+.crp h2{
+    color:#fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 0px 0px 15px;
+    margin: 0px;
+}
+.crp h3{
+    
+    color:#fff;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 10px 0px 0px 5px;
+    margin: 0px;
+}
+.info{
+    font-size: 14px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}

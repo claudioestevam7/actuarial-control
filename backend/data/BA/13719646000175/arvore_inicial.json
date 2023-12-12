@@ -1,0 +1,90 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2015": {
+                                "Feminino": [
+                                        {
+                                                "Aposentados": 266
+                                        },
+                                        {
+                                                "Pensionistas": 83
+                                        },
+                                        {
+                                                "Servidores": 993
+                                        },
+                                        {
+                                                "Servidores Iminentes": 27
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Aposentados": 84
+                                        },
+                                        {
+                                                "Pensionistas": 9
+                                        },
+                                        {
+                                                "Servidores": 387
+                                        },
+                                        {
+                                                "Servidores Iminentes": 11
+                                        }
+                                ]
+                        },
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 743
+                                        },
+                                        {
+                                                "Aposentados": 393
+                                        },
+                                        {
+                                                "Pensionistas": 103
+                                        },
+                                        {
+                                                "Servidores Iminentes": 135
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 334
+                                        },
+                                        {
+                                                "Aposentados": 79
+                                        },
+                                        {
+                                                "Pensionistas": 24
+                                        },
+                                        {
+                                                "Servidores Iminentes": 40
+                                        }
+                                ]
+                        },
+                        "2022": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 869
+                                        },
+                                        {
+                                                "Aposentados": 391
+                                        },
+                                        {
+                                                "Pensionistas": 108
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 366
+                                        },
+                                        {
+                                                "Aposentados": 94
+                                        },
+                                        {
+                                                "Pensionistas": 27
+                                        }
+                                ]
+                        }
+                }
+        }
+]

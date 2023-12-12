@@ -1,0 +1,42 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 436
+                                        },
+                                        {
+                                                "Aposentados": 12
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 586
+                                        },
+                                        {
+                                                "Aposentados": 2
+                                        }
+                                ]
+                        },
+                        "2022": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 530
+                                        },
+                                        {
+                                                "Aposentados": 36
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 412
+                                        },
+                                        {
+                                                "Aposentados": 3
+                                        }
+                                ]
+                        }
+                }
+        }
+]

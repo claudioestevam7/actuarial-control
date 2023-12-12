@@ -1,0 +1,60 @@
+
+  """ google """
+  mouse.position = (209,47)
+  mouse.click(Button_m.left)
+  time.sleep(pausa)
+
+  """ pesquisa """
+  mouse.position = (196,143)
+  mouse.click(Button_m.left)
+  time.sleep(pausa)
+
+  """ inserir cidade """
+  keyb.type(c[0] +" MG")
+  time.sleep(pausa)
+
+  """ enter para pesquisar """
+  key.press(pynput.keyboard.Key.enter)
+  time.sleep(pausa)
+  key.release(pynput.keyboard.Key.enter)
+
+  """ Compartilhar """
+  mouse.position = (426,476)
+  mouse.click(Button_m.left)
+  time.sleep(pausa)
+
+  """ incorporar """
+  mouse.position = (693,320)
+  mouse.click(Button_m.left)
+  time.sleep(pausa)
+
+  """ copiar HTML """
+  mouse.position = (979,232)
+  mouse.click(Button_m.left)
+  time.sleep(pausa)
+
+  """ VS Code """
+  mouse.position = (88,358)
+  mouse.click(Button_m.left)
+  time.sleep(pausa)
+
+  """ Codigo Terminal """
+  mouse.position = (727,718)
+  mouse.click(Button_m.left)
+  time.sleep(pausa)
+
+  """ Colar """
+  key.press(pynput.keyboard.Key.enter)
+  time.sleep(pausa)
+  key.press("v")
+  time.sleep(pausa)
+  key.release("v")
+  key.release(pynput.keyboard.Key.enter)
+
+
+
+
+  frame = input('frame: ')
+  diretorio = "./data/MG/" + c + "/mapa.js"
+  arquivo = open(diretorio, "w")
+  arquivo.write("export  const geo = [" + frame +"]")

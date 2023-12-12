@@ -1,0 +1,66 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2017": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 130
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 75
+                                        }
+                                ]
+                        },
+                        "2018": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 129
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 75
+                                        }
+                                ]
+                        },
+                        "2019": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 121
+                                        },
+                                        {
+                                                "Aposentados": 6
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 93
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        },
+                        "2022": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 141
+                                        },
+                                        {
+                                                "Aposentados": 19
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 86
+                                        },
+                                        {
+                                                "Aposentados": 8
+                                        }
+                                ]
+                        }
+                }
+        }
+]

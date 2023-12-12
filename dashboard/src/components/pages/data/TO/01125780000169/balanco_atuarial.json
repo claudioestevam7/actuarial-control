@@ -1,0 +1,118 @@
+[
+    {
+        "Previdenci\u00e1rio": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2018": 0,
+                "2019": 0,
+                "2020": -365449,
+                "2021": -1722815,
+                "2022": -7047515
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": 0,
+                "2022": 76647
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": -272382,
+                "2022": -402108
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2018": 0,
+                "2019": 0,
+                "2020": -365449,
+                "2021": -1995197,
+                "2022": -7372977
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2018": -23628289,
+                "2019": -45406705,
+                "2020": -51402521,
+                "2021": -67419738,
+                "2022": -73365665
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2018": 3953543,
+                "2019": 6020182,
+                "2020": 12028376,
+                "2021": 11194886,
+                "2022": 12303924
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2018": 3243026,
+                "2019": 4938255,
+                "2020": 9865283,
+                "2021": 10794676,
+                "2022": 12036183
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2018": -16431720,
+                "2019": -34448268,
+                "2020": -29508862,
+                "2021": -45430177,
+                "2022": -49025559
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2018": -16431720,
+                "2019": -34448268,
+                "2020": -29874311,
+                "2021": -47425374,
+                "2022": -56398535
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2018": 0,
+                "2019": 259658,
+                "2020": 2037561,
+                "2021": 4257946,
+                "2022": 5814132
+            },
+            "(=) Ativo Total do Plano": {
+                "2018": 0,
+                "2019": 259658,
+                "2020": 2037561,
+                "2021": 4257946,
+                "2022": 5814132
+            },
+            "Resultado Atuarial": {
+                "2018": -16431720,
+                "2019": -34188610,
+                "2020": -27836749,
+                "2021": -43167429,
+                "2022": -50584404
+            }
+        }
+    }
+]

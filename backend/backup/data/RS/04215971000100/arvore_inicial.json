@@ -1,0 +1,96 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2018": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 52
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 46
+                                        }
+                                ]
+                        },
+                        "2019": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 54
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 45
+                                        }
+                                ]
+                        },
+                        "2020": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 53
+                                        },
+                                        {
+                                                "Aposentados": 3
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 47
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        },
+                        "2021": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 54
+                                        },
+                                        {
+                                                "S. Iminentes": 2
+                                        },
+                                        {
+                                                "Aposentados": 3
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 48
+                                        },
+                                        {
+                                                "S. Iminentes": 0
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        },
+                        "2022": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 54
+                                        },
+                                        {
+                                                "S. Iminentes": 3
+                                        },
+                                        {
+                                                "Aposentados": 5
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 47
+                                        },
+                                        {
+                                                "S. Iminentes": 0
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        }
+                }
+        }
+]

@@ -1,0 +1,56 @@
+[
+   {
+      "2017": {
+         "Financeiro": {
+            "Servidores": 1800,
+            "Aposentados": 227,
+            "Pensionistas": 62
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 1800,
+            "Aposentados": 401
+         }
+      },
+      "2018": {
+         "Financeiro": {
+            "Aposentados": 2
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 3694,
+            "Aposentados": 682
+         }
+      },
+      "2019": {
+         "Previdenci\u00e1rio": {
+            "Servidores": 3780,
+            "Servidores Iminentes": 198,
+            "Aposentados": 770,
+            "Pensionistas": 230
+         }
+      },
+      "2020": {
+         "Previdenci\u00e1rio": {
+            "Servidores": 4040,
+            "Servidores Iminentes": 82,
+            "Aposentados": 844,
+            "Pensionistas": 243
+         }
+      },
+      "2021": {
+         "Previdenci\u00e1rio": {
+            "Servidores": 3961,
+            "Aposentados": 950,
+            "Pensionistas": 267,
+            "Servidores Iminentes": 79
+         }
+      },
+      "2022": {
+         "Previdenci\u00e1rio": {
+            "Servidores": 3790,
+            "Aposentados": 995,
+            "Pensionistas": 282,
+            "Servidores Iminentes": 170
+         }
+      }
+   }
+]

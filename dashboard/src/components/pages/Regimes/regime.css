@@ -1,0 +1,17 @@
+.regimes{
+    margin-top: 10px;
+}
+.regimes h2{
+    font-size: 14px;
+    font-weight: 800;
+    padding: 5px 10px;
+    margin:0 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+.regimes h3{
+    font-size: 14px;
+    font-weight: 600;
+    margin: 20px 2px 2px 5px;
+    color: #fff;
+}

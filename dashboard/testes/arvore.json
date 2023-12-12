@@ -1,0 +1,68 @@
+[
+  {
+      "Financeiro": {
+          "2022": {
+              "Feminino": [
+                  {
+                      "Servidores": 10294
+                  },
+                  {
+                      "S. Iminentes": 2628
+                  },
+                  {
+                      "Aposentados": 13785
+                  },
+                  {
+                      "Pensionistas": 2311
+                  }
+              ],
+              "Masculino": [
+                  {
+                      "Servidores": 5021
+                  },
+                  {
+                      "S. Iminentes": 510
+                  },
+                  {
+                      "Aposentados": 3039
+                  },
+                  {
+                      "Pensionistas": 703
+                  }
+              ]
+          }
+      },
+      "Previdenci\u00e1rio": {
+          "2022": {
+              "Feminino": [
+                  {
+                      "Servidores": 10389
+                  },
+                  {
+                      "S. Iminentes": 117
+                  },
+                  {
+                      "Aposentados": 63
+                  },
+                  {
+                      "Pensionistas": 23
+                  }
+              ],
+              "Masculino": [
+                  {
+                      "Servidores": 1674
+                  },
+                  {
+                      "S. Iminentes": 3
+                  },
+                  {
+                      "Aposentados": 11
+                  },
+                  {
+                      "Pensionistas": 32
+                  }
+              ]
+          }
+      }
+  }
+]

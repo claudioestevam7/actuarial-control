@@ -1,0 +1,48 @@
+[
+        {
+                "Previdenci\u00e1rio": {
+                        "2018": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 394
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 187
+                                        }
+                                ]
+                        },
+                        "2019": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 377
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 178
+                                        }
+                                ]
+                        },
+                        "2020": {
+                                "Feminino": [
+                                        {
+                                                "Servidores": 380
+                                        },
+                                        {
+                                                "Aposentados": 6
+                                        }
+                                ],
+                                "Masculino": [
+                                        {
+                                                "Servidores": 179
+                                        },
+                                        {
+                                                "Aposentados": 0
+                                        }
+                                ]
+                        }
+                }
+        }
+]

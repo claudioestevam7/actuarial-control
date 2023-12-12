@@ -1,0 +1,58 @@
+{
+    "name": "Indiv\u00edduo",
+    "color": "#1A1A40",
+    "children": [
+        {
+            "name": "Feminino",
+            "color": "#ff6500",
+            "children": [
+                {
+                    "name": "Servidores",
+                    "color": "#c98a61",
+                    "loc": 6695
+                },
+                {
+                    "name": "S. Iminentes",
+                    "color": "#dbc3b4",
+                    "loc": 513
+                },
+                {
+                    "name": "Aposentados",
+                    "color": "#e6af8c",
+                    "loc": 3050
+                },
+                {
+                    "name": "Pensionistas",
+                    "color": "#b88f76",
+                    "loc": 735
+                }
+            ]
+        },
+        {
+            "name": "Masculino",
+            "color": "#1839c4",
+            "children": [
+                {
+                    "name": "Servidores",
+                    "color": "#506dcc",
+                    "loc": 20683
+                },
+                {
+                    "name": "S. Iminentes",
+                    "color": "#6574ba",
+                    "loc": 2745
+                },
+                {
+                    "name": "Aposentados",
+                    "color": "#59669e",
+                    "loc": 13848
+                },
+                {
+                    "name": "Pensionistas",
+                    "color": "#596391",
+                    "loc": 2334
+                }
+            ]
+        }
+    ]
+}

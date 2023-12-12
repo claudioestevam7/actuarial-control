@@ -1,0 +1,80 @@
+[
+   {
+      "2015": {
+         "Financeiro": {
+            "Aposentados": 1545,
+            "Pensionistas": 485,
+            "Servidores": 3189
+         },
+         "Previdenci\u00e1rio": {
+            "Aposentados": 4,
+            "Pensionistas": 5,
+            "Servidores": 2705
+         }
+      },
+      "2017": {
+         "Financeiro": {
+            "Servidores": 2765,
+            "Aposentados": 1707,
+            "Pensionistas": 513
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 2973,
+            "Aposentados": 11
+         }
+      },
+      "2018": {
+         "Financeiro": {
+            "Servidores": 2628,
+            "Aposentados": 1826,
+            "Pensionistas": 527
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 3003,
+            "Aposentados": 15
+         }
+      },
+      "2019": {
+         "Financeiro": {
+            "Servidores": 2236,
+            "Servidores Iminentes": 248,
+            "Aposentados": 1876,
+            "Pensionistas": 525
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 3024,
+            "Aposentados": 35,
+            "Pensionistas": 20,
+            "Servidores Iminentes": 13
+         }
+      },
+      "2021": {
+         "Financeiro": {
+            "Servidores": 1964,
+            "Servidores Iminentes": 234,
+            "Aposentados": 2031,
+            "Pensionistas": 521
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 3331,
+            "Aposentados": 89,
+            "Pensionistas": 26,
+            "Servidores Iminentes": 28
+         }
+      },
+      "2022": {
+         "Financeiro": {
+            "Servidores": 1837,
+            "Servidores Iminentes": 232,
+            "Aposentados": 2065,
+            "Pensionistas": 530
+         },
+         "Previdenci\u00e1rio": {
+            "Servidores": 3219,
+            "Aposentados": 122,
+            "Pensionistas": 32,
+            "Servidores Iminentes": 103
+         }
+      }
+   }
+]

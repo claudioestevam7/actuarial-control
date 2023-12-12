@@ -1,0 +1,70 @@
+[
+    {
+        "Previdenci\u00e1rio": {
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Aposentados)": {
+                "2017": -15727062,
+                "2018": -19590133
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Aposentados)": {
+                "2017": 0,
+                "2018": 0
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (Pensionistas)": {
+                "2017": -1105938,
+                "2018": -1439182
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante (Pensionistas)": {
+                "2017": 0,
+                "2018": 0
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios Concedidos)": {
+                "2017": 0,
+                "2018": 7650324
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios Concedidos (RMB - Concedidos)": {
+                "2017": -16833001,
+                "2018": -13378991
+            },
+            "(-) Valor Presente dos Benef\u00edcios Futuros (A Conceder)": {
+                "2017": -46090425,
+                "2018": -55473923
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Patrocinador": {
+                "2017": 16047339,
+                "2018": 15149982
+            },
+            "(+) Valor Presente das Contribui\u00e7\u00f5es Futuras Participante": {
+                "2017": 6187559,
+                "2018": 9863499
+            },
+            "(+) Valor da Compensa\u00e7\u00e3o Previdenci\u00e1ria (Beneficios a Conceder)": {
+                "2017": 0,
+                "2018": 7650324
+            },
+            "(=) Reserva Matem\u00e1tica de Benef\u00edcios a Conceder (RMB a Conceder)": {
+                "2017": -23855527,
+                "2018": -22810119
+            },
+            "(=) Reserva Matem\u00e1tica (RMBC + RMBaC)": {
+                "2017": -40688527,
+                "2018": -36189110
+            },
+            "(+) Valor Presente dos Acordos de Parcelamentos": {
+                "2017": 6454812,
+                "2018": 12900160
+            },
+            "(+) Ativo L\u00edquido do Plano": {
+                "2017": 17583063,
+                "2018": 19583063
+            },
+            "(=) Ativo Total do Plano": {
+                "2017": 24037875,
+                "2018": 32483223
+            },
+            "Resultado Atuarial": {
+                "2017": -16650652,
+                "2018": -3705887
+            }
+        }
+    }
+]

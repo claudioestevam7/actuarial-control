@@ -1,0 +1,224 @@
+.sidebar{
+    width: 220px;
+}
+.img_logo{
+    width: 100%;
+    padding-left: 15px;
+}
+#cabecalho{
+    background-color: #082032;
+    width: 90%;
+    height: 110px;
+    margin: 10px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
+#cabecalho h2{
+    color: #fff;
+    font-size: 24px;
+    margin: 10px;
+}
+#inf{
+    border-radius: 10px;
+    width: 90%;
+    height: 500px;
+    background-image:linear-gradient(0deg, #1A1A40 0%, #082032 50%);
+    margin: 10px 10px 0px 10px;
+    border: 1px solid #fff;
+}
+
+.sidebar #option-estado,
+.sidebar #option-cidades{
+    width: 150px;
+    height: 25px;
+    background-color: #082032;
+    margin: 0.25rem 1rem;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    color:#fff;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    cursor: pointer;
+
+}
+
+.regimento{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 550;
+    margin-left: 10px;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+.checkbox{
+    cursor: pointer;
+    margin-right: 0.5rem;
+}
+
+.regimentos{
+    margin: 5px;
+    color: white;
+    padding-left: 5px;
+    font-size: 13px;
+    min-height: 60px;
+}
+ 
+.sidebar_anos{
+    padding: 0rem 0.25rem 0rem 1rem;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    min-height: 90px;
+}
+.sidebar_anos_botao{
+    width: 50px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0.25rem 0.1rem;
+    cursor: pointer;
+}
+.sidebar_anos_botao:hover{
+    background-color: #71accc81;
+}
+.anos_botao_active{
+    background-color: #295872;
+    font-weight: 600;
+}
+
+
+.link{
+    text-decoration: none;
+    margin: 0px 5px 0px 15px;
+    display: flex;
+    align-items: center;
+    height: 15px;
+    width:80%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btn_dashboard{
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-decoration:none;
+    display: flex;
+    justify-content: center;
+    border: none;
+    
+}
+.link:hover{
+    background-color: #71accc81;
+    font-weight: 700;
+}
+
+
+.fa-chart-bar{
+    color: #fff;
+    font-size: 22px;
+    margin-right: 10px;
+}
+.fa-table{
+    color: #fff;
+    font-size: 22px;
+    margin-right: 10px;
+}
+.fa-users{
+    color: #fff;
+    font-size: 22px;
+    margin-right: 10px;
+}
+.fa-id-card{
+    color: #fff;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+.active__button{
+    background-color: #295872;
+}
+
+
+
+.logo{
+    animation: girar 3s ;
+
+}
+
+@keyframes girar {
+	0% {
+		transform:rotate(0deg);
+	}
+	100% {
+		transform: rotate(180deg);
+	}
+}
+
+
+
+
+.invisivel{
+    display: none ;
+}
+
+
+.evolucao{
+    padding: 0;
+    margin: 0.25rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 85px;
+    border: 1px solid white;
+    border-style: dashed;
+    height: 50px;
+    width: 170px;
+    
+}
+.grafico{
+    border: 1px solid white;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    min-height: 90px;
+}
+
+.orientacao{
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+    text-align: justify;
+    padding: 0.5rem;
+    margin: 0;
+    width: 100%;
+    height: 50px;
+    padding: 0;
+}
+
+
+.fa-info-circle{
+    font-size: 14px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0;
+    padding-left: 0.25rem;
+}
+
+.div__evolucao{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
